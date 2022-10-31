@@ -4,7 +4,7 @@
 
 
 [[Campaigns/Campaigns|Campaigns]]
-	[[Campaigns/The Conglomerate/The Conglomerate|The Conglomerate]]
+	- [[Campaigns/The Conglomerate/The Conglomerate|The Conglomerate]]
 [[Games/Games|Games]]
-	[[Games/DND5e/DND5e|DND5e]]
-	
+	- [[Games/DND5e/DND5e|DND5e]]
+
