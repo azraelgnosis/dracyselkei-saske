@@ -4,15 +4,15 @@
 
 
 # PCs
-[[Campaigns/The Conglomerate/Characters/Zhak|Zhak]]
+[[Campaigns/The Conglomerate/Characters/Zhak|Zhak]] & [[Campaigns/The Conglomerate/Characters/Schrodinger|Schrodinger]]
 [[Campaigns/The Conglomerate/Characters/Cigfran ap Morrigan|Cigfran ap Morrigan]]
 [[Campaigns/The Conglomerate/Characters/Klytus|Klytus]]
 [[Campaigns/The Conglomerate/Characters/Ghirith Daevyn|Ghirith Daevyn]]
 
 # By Location
 
-## The Conglomerate
-## Pentrefach
+## [[Campaigns/The Conglomerate/Locations/Conglomerate/Conglomerate|Conglomerate]]
+## [[Campaigns/The Conglomerate/Locations/Pentrefach/Pentrefach|Pentrefach]]
 
 ## Drowfolk
 ## Teyrnas
