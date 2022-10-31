@@ -3,7 +3,7 @@
 ---
 
 
-[[Conglomerate|Conglomerate]]
+[[Campaigns/The Conglomerate/The Conglomerate|The Conglomerate]]
 
 # Tags
 #MOC 
