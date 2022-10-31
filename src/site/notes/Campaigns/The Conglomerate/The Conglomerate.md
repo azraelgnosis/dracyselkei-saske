@@ -2,9 +2,10 @@
 {"dg-publish":true,"permalink":"/campaigns/the-conglomerate/the-conglomerate/"}
 ---
 
-# Conglomerate Overview
  
-```ccard
-type: folder_brief_live
-```
- 
+[[Campaigns/The Conglomerate/Characters/Characters|Characters]]
+[[Campaigns/The Conglomerate/Locations/Locations|Locations]]
+[[Campaigns/The Conglomerate/Organizations/Organizations|Organizations]]
+
+# Tags
+#MOC 
